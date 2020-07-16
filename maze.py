@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from collections import deque
 import time ,cv2
 
-filename = 'maps/maze.png'
+filename = 'maps/maze2.png'
 
 class Node():
       def __init__(self, parent = None):
